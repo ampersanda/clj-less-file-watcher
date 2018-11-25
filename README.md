@@ -9,7 +9,7 @@ You have to install `lessc` and `less-plugin-clean-css` using `npm` before use t
 - [ ] Compile related/imported less file from the parent of less file, for example, `home.less` is used by `amp.less`, `home.less` is compiled and `amp.less` is compiled too or just compile `amp.less` (opinion needed)
 - [ ] Standalone executable bin file (use lein-bin)
 - [ ] Access via `plugin`
-- [ ] Access via `dependecies`
+- [ ] Access via `dependencies`
 
 ## License
 
